@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TvMJjAfVLMbtZ70kYGkz7lidjvdwleqQPzmgm5gZQRx1I2GMhMNT67BaIioXdb+8S/DeuL8M7fXodZS8DPZFSw==",
+  "dgSpecHash": "mVuO6fVxCmA9bCjRuJOBojdTz+evgDRKPT9dxEa5aIVMwSfEw/Qvl3jk2vQB4boMyAYBl8be5WiCCocQIxgIeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berku\\Desktop\\MyRepository\\Bots\\Telegram_Bot\\Th_Bot\\Th_Bot\\Th_Bot.csproj",
+  "projectFilePath": "C:\\Users\\berku\\Desktop\\MyRepository\\Bots\\Telegram_Bot\\Th_Bot\\Telegram_Bot\\Th_Bot\\Th_Bot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berku\\.nuget\\packages\\httptosocks5proxy\\1.4.0\\httptosocks5proxy.1.4.0.nupkg.sha512",
     "C:\\Users\\berku\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

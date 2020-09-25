@@ -22,8 +22,10 @@ namespace Th_Bot
             botClient.OnMessage += BotOnMessageReceived;
             botClient.OnMessageEdited += BotOnMessageReceived;
             botClient.StartReceiving();
-            Console.WriteLine("Press any key to exit");
-            Console.ReadKey();
+            // Console.WriteLine("Press any key to exit");
+            // Console.ReadKey();
+			while(true)
+            {; }
             botClient.StopReceiving();
         }
 
